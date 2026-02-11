@@ -15,47 +15,47 @@ function App() {
   let random = [
     {
       id: 1,
-      description: 'Di si por favor',
+      description: 'chi pofavor',
       img: 'https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif',
     },
     {
       id: 1,
-      description: 'Piénsalo de nuevo.',
+      description: 'Sipirili o noporolo',
       img: 'https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif',
     },
     {
       id: 2,
-      description: 'Vamos, atrévete a decir que sí.',
+      description: 'Atrévetete salte del close.',
       img: 'https://media.tenor.com/DTmYqda3ZokAAAAi/peachandgoma.gif',
     },
     {
       id: 3,
-      description: 'No tengas miedo, será genial.',
+      description: 'No tengas miedo, vamos por algo de comer.',
       img: 'https://i.pinimg.com/originals/e1/c3/88/e1c388133e0f998e25bb17c837b74a14.gif',
     },
     {
       id: 4,
-      description: 'Confía en mí, será divertido.',
+      description: 'Confía en mí, seráel mejor día.',
       img: 'https://media.tenor.com/Bn88VELdNI8AAAAi/peach-goma.gif',
     },
     {
       id: 5,
-      description: 'No tengas dudas, te hará sonreír.',
+      description: 'vení amor.',
       img: 'https://i.pinimg.com/originals/c6/b3/0d/c6b30d1a2dc178aeb92de63295d4ae64.gif',
     },
     {
       id: 6,
-      description: 'Te prometo que será inolvidable.',
+      description: 'Te prometo que seremos felices',
       img: 'https://media.tenor.com/N2oqtqaB_G0AAAAi/peach-goma.gif',
     },
     {
       id: 7,
-      description: 'No dejes que el miedo te detenga.',
+      description: 'sequequieres setenota.',
       img: 'https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif',
     },
     {
       id: 8,
-      description: 'Confía en el destino, nos está dando una señal.',
+      description: 'Confía en Dios.',
       img: 'https://media.tenor.com/cbEccaK9QxMAAAAi/peach-goma.gif',
     },
     {
